@@ -9,4 +9,6 @@ func main() {
 
 	//Comment added in main 2nd commit
 
+	//Comment added in feature 2 branch
+
 }
