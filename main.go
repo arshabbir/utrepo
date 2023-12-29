@@ -11,4 +11,6 @@ func main() {
 
 	//Comment added in feature 2 branch
 
+	//Comment added in feature 3 branch
+
 }
