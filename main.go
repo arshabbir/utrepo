@@ -6,7 +6,7 @@ func main() {
 
 	
 
-	fmt.Println("Added in origin/master"
+	fmt.Println("Removed the comments")
 		    
 
 	//Comment Added in feature 3 banch  .......>
