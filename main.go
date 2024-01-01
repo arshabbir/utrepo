@@ -26,5 +26,4 @@ func main() {
 
 	//Added in Feature 6
 
-	//Added in test2
 }
