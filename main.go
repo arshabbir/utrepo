@@ -19,5 +19,4 @@ func main() {
 
 	// Added from direct MAIN 
 
-	//Added in test2
 }
