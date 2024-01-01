@@ -17,13 +17,6 @@ func main() {
 
 	//Added in temp branch
 
-	//commit 2 from temp
-
-	//commit 3 from tmp
-	//Added in test branch
-
-	//Added in feature 5
-
-	//Added in Feature 6
+	// Added from direct MAIN 
 
 }
